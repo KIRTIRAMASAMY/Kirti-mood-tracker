@@ -57,4 +57,5 @@
 </section>
 
 <EntryModal />
+<button type="button" class="btn btn-light">Sign Out</button>
 		
